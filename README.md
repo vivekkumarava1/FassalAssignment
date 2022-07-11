@@ -70,9 +70,9 @@ Please read [`CONTRIBUTING`](CONTRIBUTING.md) for details on our [`CODE OF CONDU
 
 
 
+<hr>
 
 
-
-Github: [Vivek Kumar](https://github.com/vivekkumarava1/)
+Github: [Vivek Kumar] (https://github.com/vivekkumarava1/)
   
 <hr>
