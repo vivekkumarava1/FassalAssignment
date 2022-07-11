@@ -1,4 +1,4 @@
-<p align="center"><a href="https://vivekkumarava1.github.io/movieinfo"><img alt="movieinfo app" src="https://www.istockphoto.com/photo/video-archives-concept-gm1029147440-275821501" width="150vw"/></a></p>
+
 <h1 align="center">Movie Info App</h1>
 
 
